@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap:  https://linux9594.github.io/compressor-vk/
+
+Sitemap: https://linux9594.github.io/compressor-vk/sitemap.xml
