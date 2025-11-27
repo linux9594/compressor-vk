@@ -7,4 +7,28 @@
     <priority>1.00</priority>
   </url>
 
+  <url>
+    <loc>https://linux9594.github.io/compressor-vk/privacy-policy.html</loc>
+    <lastmod>2025-02-05</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://linux9594.github.io/compressor-vk/terms.html</loc>
+    <lastmod>2025-02-05</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://linux9594.github.io/compressor-vk/contact.html</loc>
+    <lastmod>2025-02-05</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://linux9594.github.io/compressor-vk/404.html</loc>
+    <lastmod>2025-02-05</lastmod>
+    <priority>0.20</priority>
+  </url>
+
 </urlset>
